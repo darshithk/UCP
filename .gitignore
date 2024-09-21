@@ -1,0 +1,9 @@
+*.vscode
+
+build
+*.bin
+tmp_*
+*.out
+*.log
+*.dSYM
+*.o
